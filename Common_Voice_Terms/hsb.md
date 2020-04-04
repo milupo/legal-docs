@@ -65,4 +65,4 @@ Mozilla can suspend or end anyone’s access to Common Voice at any time for any
 The recordings you submit to Mozilla will remain publicly available as part of Common Voice, even if we terminate or suspend your access. 
 
 ## 9. Płaćiwe prawo
-California law applies to these Terms. These terms are the entire agreement between you and Mozilla regarding Common Voice. 
+Za tute wužiwanske wuměnjenja kaliforniske prawo płaći. Tute wužiwanske wuměnjenja su cyłkowne dojednanje mjez wami a Mozilla nastupajo Common Voice.
