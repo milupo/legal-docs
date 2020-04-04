@@ -12,15 +12,15 @@ Common Voice je wotewrjeny za kóždeho, kiž je znajmjeńša 20 lět stary. Jel
 Common Voice je dźěl zhromadźenstwa Mozilla. Jeli so tuž wobdźěleće, zwoliće do [wobdźělenskich směrnicow zhromadźenstwa Mozilla](https://www.mozilla.org/en-US/about/governance/policies/participation/). 
 
 ## 2. Waše přinoški
-We make Mozilla’s Common Voice database available under the [Creative Commons CC0 public domain dedication](https://creativecommons.org/publicdomain/zero/1.0/). That means it’s public and we’ve waived all copyrights to the extent we can under the law. If you participate in Common voice, we require that you do the same. You must agree that Mozilla may offer all of your Contributions (including text, recordings, validations, and feedback) to the public under the [CC0](https://creativecommons.org/publicdomain/zero/1.0/) public domain dedication. 
+Stajamy datowu banku Common Voice Mozilla pod licencu [Creative Commons CC0 public domain](https://creativecommons.org/publicdomain/zero/1.0/) k dispoziciji. To rěka, je zjawna a my smy so w tej měrje kóždehožkuli prawa awtorstwa wzdali, kaž zakoń dowola. Jeli is na Common Voice wobdźěleće, žadamy sej, zo samsne činiće. Dyrbiće přezjedny być, zo Mozilla smě wšě waše přinoški (mjez nimi tekst, natočenja, wobkrućenja a komentary) zjawnosći pod licencu [CC0](https://creativecommons.org/publicdomain/zero/1.0/) k dispoziji stajić. 
 
-In order to participate in Common Voice, Mozilla also requires that you make two assurances: 
+Zo byšće so směł na Common Voice wobdźělić, Mozilla slědowacej přilubjeni wot was žada:
 
-First, that your Contributions are entirely your own creation.
+Sprěnja: Waše přinoški su dospołnje waše swójske dźěło.
 
-Second, that your Contributions do not infringe on any third parties’ rights. 
+Zdruha: Waše přinoški prawa třećich njezranja. 
 
-If you cannot make these assurances, you may not participate in Common Voice. 
+Jeli njemóžeće to přilubić, njemóžeće so na Common Voice wobdźělić. 
 
 ## 3. Waše wužiwarske konto
 You do not have to create an account to participate in Common Voice. 
