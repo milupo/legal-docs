@@ -1,12 +1,12 @@
-# Common Voice Privacy Notice 
+# Wozjewjenje škita datow Common Voice 
 
-Effective August 15, 2019 {: datetime="2019-08-15" }
+Płaciwe wot 15. awgusta 2019 {: datetime="2019-08-15" }
 
-## Privacy
+## Škit datow
 
-When Mozilla (that’s us), receives information from you, our [Mozilla Privacy Policy](https://www.mozilla.org/privacy) describes how we handle that information.
+Hdyž Mozilla (tuž my) daty wot was dóstawa, naše [wozjewjenje škita datgow Mozilla](https://www.mozilla.org/privacy) wopisuje, kak z tymi datami wobchadźamy.
 
-* **Demographic data.** You can optionally send us information such as your accent, age, and gender. This helps us and other researchers improve and create speech-to-text technology and tools.
+* **Demografiske daty.** Móžeće nam opcionalnje daty słać, kaž na přikład akcent, starobu a splah. To nam a druhim slědźerjam pomha, technologiju a nastroje za přetworjenje rěčenja do teksta polěpšeć a wuwiwać.
 
 * **Account data.** You do not need to create an account to use Common Voice. If you decide to create an account, we receive your username and avatar, if you submit one. Your email address is associated with your demographic and interaction data but is not shared to the public. We display leaderboards showing the number of recordings users make. You have the option whether or not you wish to appear on the leaderboards. You can delete your account at any time and your username and email will be removed.
 
