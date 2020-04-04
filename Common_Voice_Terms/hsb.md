@@ -12,7 +12,7 @@ Common Voice je wotewrjeny za kóždeho, kiž je znajmjeńša 20 lět stary. Jel
 Common Voice je dźěl zhromadźenstwa Mozilla. Jeli so tuž wobdźěleće, zwoliće do [wobdźělenskich směrnicow zhromadźenstwa Mozilla](https://www.mozilla.org/en-US/about/governance/policies/participation/). 
 
 ## 2. Waše přinoški
-Stajamy datowu banku Common Voice Mozilla pod licencu [Creative Commons CC0 public domain](https://creativecommons.org/publicdomain/zero/1.0/) k dispoziciji. To rěka, je zjawna a my smy so w tej měrje kóždehožkuli prawa awtorstwa wzdali, kaž zakoń dowola. Jeli so na Common Voice wobdźěleće, žadamy, zo samsne činiće. Dyrbiće přezjedny być, zo Mozilla smě wšě waše přinoški (mjez nimi tekst, natočenja, wobkrućenja a komentary) zjawnosći pod licencu [CC0](https://creativecommons.org/publicdomain/zero/1.0/) k dispoziji stajić. 
+Stajamy datowu banku Common Voice Mozilla pod licencu [Creative Commons CC0 public domain](https://creativecommons.org/publicdomain/zero/1.0/) k dispoziciji. To rěka, je zjawna a my smy so w tej měrje kóždehožkuli awtorskeho prawa wzdali, kaž zakoń dowola. Jeli so na Common Voice wobdźěleće, žadamy, zo samsne činiće. Dyrbiće přezjedny być, zo Mozilla smě wšě waše přinoški (mjez nimi tekst, natočenja, wobkrućenja a komentary) zjawnosći pod licencu [CC0](https://creativecommons.org/publicdomain/zero/1.0/) k dispoziji stajić. 
 
 Zo byšće so směł na Common Voice wobdźělić, Mozilla slědowacej slubjeni wot was žada:
 
@@ -52,7 +52,7 @@ You agree to indemnify and hold Mozilla harmless for any liability or claim that
 Mozilla provides the service “as is.”  Mozilla specifically disclaims any legal guarantees or warranties such as “merchantability,” “fitness for a particular purpose,” “non-infringement,” and warranties arising out of a course of dealing, usage or trade. 
 
 ## 6. Zranjenja prawow
-If you think something in Common Voice infringes your copyright or trademark rights, please see our [policy for how to report infringement](https://www.mozilla.org/about/legal/report-infringement/).
+Jeli sej mysliće, zo něšto w Common Voice waše awtorske prawo abo markowe prawa rani, prošu hlejće naše [prawidła za zdźělenje zranjenjow prawa](https://www.mozilla.org/about/legal/report-infringement/).
 
 ## 7. Aktualizacije 
 Every once in a while, Mozilla may decide to update these Terms. We will post the updated Terms online. 
