@@ -27,11 +27,10 @@ Njetrjebaće konto załožić, zo byšće so na Common Voice wobdźělił.
 
 Jeli konto załožujeće, budźe so Mozilla za wašej e-mejlowej adresu a wužiwarskim mjenom po wašej wólbje prašeć. Hdyž chceće, móžeće tež awatar a wěste demografiske daty podać, kotrež budu nam pomhać mašiny wučić, ludźi z rozdźělnym akcentom, starobu, splahom a pozadkom rozumić.  
 
-When you provide information for your account, you give Mozilla all permissions necessary to: 
-keep track of information about your Contributions, including audio recordings, text, and validations, 
-associate that data with your account, email, username, and the demographic information you provide, and
-publish your Contributions publicly along with any demographic information,
-Publish metrics about your Contributions (such as number of recordings and languages) along with your username on the leaderboard.  
+Hdyž informacije za waše konto podawaće, dawaće Mozilla wšě dowolnosće, kotrež su trěbne, zo bychmy móhli: 
+informacije wo wašich přinoškach składować, mjez nimi awdionatočenja, tekst a wobkrućenja, 
+te daty z wašim kontom, e-mejlowej adresu, wužiwarskim mjenom a demografiskimi informacijemi zwjazać, kotrež sće podał, a 
+zjawnosći waše přinoški hromadźe z demografiskim informacijemi k dispoziciji stajić a podaća wo wašich přinoškach (na přikład ličbu natočenjow a rěče) hromadźe z wašim wužiwarskim mjenm w lisćinje porjada wozjewić.  
 
 Mozilla will not publicly post or publish your email address. 
 
