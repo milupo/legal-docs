@@ -12,7 +12,7 @@ Common Voice je wotewrjeny za kóždeho, kiž je znajmjeńša 20 lět stary. Jel
 Common Voice je dźěl zhromadźenstwa Mozilla. Jeli so tuž wobdźěleće, zwoliće do [wobdźělenskich směrnicow zhromadźenstwa Mozilla](https://www.mozilla.org/en-US/about/governance/policies/participation/). 
 
 ## 2. Waše přinoški
-Stajamy datowu banku Common Voice Mozilla pod licencu [Creative Commons CC0 public domain](https://creativecommons.org/publicdomain/zero/1.0/) k dispoziciji. To rěka, je zjawna a my smy so w tej měrje kóždehožkuli prawa awtorstwa wzdali, kaž zakoń dowola. Jeli is na Common Voice wobdźěleće, žadamy sej, zo samsne činiće. Dyrbiće přezjedny być, zo Mozilla smě wšě waše přinoški (mjez nimi tekst, natočenja, wobkrućenja a komentary) zjawnosći pod licencu [CC0](https://creativecommons.org/publicdomain/zero/1.0/) k dispoziji stajić. 
+Stajamy datowu banku Common Voice Mozilla pod licencu [Creative Commons CC0 public domain](https://creativecommons.org/publicdomain/zero/1.0/) k dispoziciji. To rěka, je zjawna a my smy so w tej měrje kóždehožkuli prawa awtorstwa wzdali, kaž zakoń dowola. Jeli so na Common Voice wobdźěleće, žadamy, zo samsne činiće. Dyrbiće přezjedny być, zo Mozilla smě wšě waše přinoški (mjez nimi tekst, natočenja, wobkrućenja a komentary) zjawnosći pod licencu [CC0](https://creativecommons.org/publicdomain/zero/1.0/) k dispoziji stajić. 
 
 Zo byšće so směł na Common Voice wobdźělić, Mozilla slědowacej slubjeni wot was žada:
 
@@ -25,7 +25,7 @@ Jeli njemóžeće to slubić, njemóžeće so na Common Voice wobdźělić.
 ## 3. Waše wužiwarske konto
 Njetrjebaće konto załožić, zo byšće so na Common Voice wobdźělił. 
 
-If you do create an account, Mozilla will ask for your email address and a username of your choice. Optionally, you may also provide an avatar and certain demographic data that will help us understand how to teach machines to understand people with different accent, ages, sex, and background.  
+Jeli konto załožujeće, If you do create an account, budźe so Mozilla za wašej e-mejlowej adresu a wužiwarskim mjenom po wašej wólbje prašeć. Hdyž chceće, móžeće tež awatar a wěste demografiske daty podać, kotrež budu nam pomhać mašiny wučić, ludźi z rozdźělnym akcentom, starobu, splahom a pozadkom rozumić.  
 
 When you provide information for your account, you give Mozilla all permissions necessary to: 
 keep track of information about your Contributions, including audio recordings, text, and validations, 
