@@ -34,7 +34,7 @@ zjawnosći waše přinoški hromadźe z demografiskim informacijemi k dispozicij
 
 Mozilla wašu e-mejlowu adresu nihdźe zjawnje njepokazuje a njewozjewja. 
 
-You can choose not to appear on the leaderboards. If you do, Mozilla will not publish data about your recordings in association with your username. However, Mozilla will still make your text and recordings publicly available as part of Common Voice and will include information about your recordings in the overall metrics that are available publicly.  
+Jeli nochceće so w lisćinach porjada jewić, Mozilla daty wo wašich natočenjach hromadźe z wašim wužiwarskim mjenom njewozjewi. Ale, Mozilla zjawnosći waš tekst a waše natočenja jako dźěl Common Voice k dispoziciji staja a zapřijima informacije wo wašich natočenjach w cyłkownej statistice, kotraž je zjawna widźomna.  
 
 ## 4. Zdźělenki
 If you subscribe to receive our newsletters or register for an account in connection with Common Voice, you may receive emails from us in connection with your account. 
