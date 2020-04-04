@@ -1,4 +1,4 @@
-# Common Voice Privacy Notice 
+# Wozjewjenje wo škiće datow Common Voice
 
 Effective August 15, 2019 {: datetime="2019-08-15" }
 
