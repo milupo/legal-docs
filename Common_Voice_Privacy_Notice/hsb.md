@@ -4,7 +4,7 @@ Płaciwe wot 15. awgusta 2019 {: datetime="2019-08-15" }
 
 ## Škit datow
 
-Hdyž Mozilla (tuž my) daty wot was dóstawa, naše [wozjewjenje škita datgow Mozilla](https://www.mozilla.org/privacy) wopisuje, kak z tymi datami wobchadźamy.
+Hdyž Mozilla (tuž my) daty wot was dóstawa, naše [wozjewjenje škita datow Mozilla](https://www.mozilla.org/privacy) wopisuje, kak z tymi datami wobchadźamy.
 
 * **Demografiske daty.** Móžeće nam opcionalnje daty słać, kaž na přikład akcent, starobu a splah. To nam a druhim slědźerjam pomha, technologiju a nastroje za přetworjenje rěčenja do teksta polěpšeć a wuwiwać.
 
