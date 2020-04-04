@@ -34,7 +34,7 @@ zjawnosći waše přinoški hromadźe z demografiskim informacijemi k dispozicij
 
 Mozilla wašu e-mejlowu adresu nihdźe zjawnje njepokazuje a njewozjewja. 
 
-Jeli nochceće so w lisćinach porjada jewić, Mozilla daty wo wašich natočenjach hromadźe z wašim wužiwarskim mjenom njewozjewi. Ale, Mozilla zjawnosći waš tekst a waše natočenja jako dźěl Common Voice k dispoziciji staja a zapřijima informacije wo wašich natočenjach w cyłkownej statistice, kotraž je zjawna widźomna.  
+Jeli nochceće so w lisćinach porjada jewić, Mozilla daty wo wašich natočenjach hromadźe z wašim wužiwarskim mjenom njewozjewi. Ale, Mozilla zjawnosći waš tekst a waše natočenja jako dźěl Common Voice k dispoziciji staja a zapřijima informacije wo wašich natočenjach w cyłkownej statistice, kotraž je zjawnje widźomna.  
 
 ## 4. Zdźělenki
 If you subscribe to receive our newsletters or register for an account in connection with Common Voice, you may receive emails from us in connection with your account. 
