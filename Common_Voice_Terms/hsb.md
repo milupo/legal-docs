@@ -22,7 +22,7 @@ Second, that your Contributions do not infringe on any third parties’ rights.
 
 If you cannot make these assurances, you may not participate in Common Voice. 
 
-## 3. Waše konto
+## 3. Waše wužiwarske konto
 You do not have to create an account to participate in Common Voice. 
 
 If you do create an account, Mozilla will ask for your email address and a username of your choice. Optionally, you may also provide an avatar and certain demographic data that will help us understand how to teach machines to understand people with different accent, ages, sex, and background.  
