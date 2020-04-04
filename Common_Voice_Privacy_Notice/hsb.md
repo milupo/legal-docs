@@ -1,4 +1,4 @@
-# Wozjewjenje škita datow Common Voice 
+# Wozjewjenje wo škiće datow Common Voice 
 
 Płaciwe wot 15. awgusta 2019 {: datetime="2019-08-15" }
 
@@ -8,11 +8,11 @@ Hdyž Mozilla (tuž my) daty wot was dóstawa, naše [wozjewjenje škita datow M
 
 * **Demografiske daty.** Móžeće nam opcionalnje daty słać, kaž na přikład akcent, starobu a splah. To nam a druhim slědźerjam pomha, technologiju a nastroje za přetworjenje rěčenja do teksta polěpšeć a wuwiwać.
 
-* **Account data.** You do not need to create an account to use Common Voice. If you decide to create an account, we receive your username and avatar, if you submit one. Your email address is associated with your demographic and interaction data but is not shared to the public. We display leaderboards showing the number of recordings users make. You have the option whether or not you wish to appear on the leaderboards. You can delete your account at any time and your username and email will be removed.
+* **Kontowe daty.** Njetrjebaće konto załožić, zo byšće Common Voice wužiwał. Jeli so rozsudźeće, konto załožić, dóstanjemy waše wužiwarske mjeno a awatar, jeli tajki zapodawaće. Waša e-mejlowa adresa je z wašimi demografiskimi a interakciskimi datami zwjazane, ale so ze zjawnosću njedźěli. W lisćinach porjada pokazujemy ličbu natočenjow, kotrež wužiwarjo činja. Móžeće postajić, hač chceće so w lisćinach porjada jewić abo nic. Móžeće swoje konto kóždy čas zhašeć a waše wužiwarske mjeno a waša e-mejlowa adresa so wotstronitej.
 
-* **Newsletter.** You can subscribe to our newsletter, in which case we receive your email address. You can unsubscribe at any time and your email will be removed from the newsletter distribution list.
+* **Powěsćowy list.** Móžeće naš powěsćowy list abonować, z kotrymž wašu e-mejlowu adresu dóstawamy. Móžeće kóždy čas abonement wupowědźić a waša e-mejlowa adresa so z rozdźělowanskeje lisćiny powěsćoweho lista wotstroni.
 
-* **Voice Recordings.** Voice recordings, along with any optionally provided demographic data, may be available in the Common Voice database for public consumption and use under a Creative Commons Zero License ([CC0](https://creativecommons.org/publicdomain/zero/1.0/)).
+* **Hłosowe natočenja.** Hłosowe natočenja a dobrowólnje k dispoziciji stajene demografiske daty móža w datowej bance Common Voice za zjawne wužiwanje k dispoziciji być. Za wužiwanje licenca Creative Commons Zero ([CC0](https://creativecommons.org/publicdomain/zero/1.0/)) płaći.
 
 * **Text.** If you submit written sentences, we may also make those available in the Common Voice database for public consumption under [CC0](https://creativecommons.org/publicdomain/zero/1.0/), in accordance with all our samples. We will not associate these sentences with the demographic data you submit.
 
