@@ -32,7 +32,7 @@ informacije wo wašich přinoškach składować, mjez nimi awdionatočenja, teks
 te daty z wašim kontom, e-mejlowej adresu, wužiwarskim mjenom a demografiskimi informacijemi zwjazać, kotrež sće podał, a 
 zjawnosći waše přinoški hromadźe z demografiskim informacijemi k dispoziciji stajić a podaća wo wašich přinoškach (na přikład ličbu natočenjow a rěče) hromadźe z wašim wužiwarskim mjenm w lisćinje porjada wozjewić.  
 
-Mozilla will not publicly post or publish your email address. 
+Mozilla wašu e-mejlowu adresu nihdźe zjawnje njepokazuje a njewozjewja. 
 
 You can choose not to appear on the leaderboards. If you do, Mozilla will not publish data about your recordings in association with your username. However, Mozilla will still make your text and recordings publicly available as part of Common Voice and will include information about your recordings in the overall metrics that are available publicly.  
 
