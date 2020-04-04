@@ -25,7 +25,7 @@ Jeli njemóžeće to slubić, njemóžeće so na Common Voice wobdźělić.
 ## 3. Waše wužiwarske konto
 Njetrjebaće konto załožić, zo byšće so na Common Voice wobdźělił. 
 
-Jeli konto załožujeće, If you do create an account, budźe so Mozilla za wašej e-mejlowej adresu a wužiwarskim mjenom po wašej wólbje prašeć. Hdyž chceće, móžeće tež awatar a wěste demografiske daty podać, kotrež budu nam pomhać mašiny wučić, ludźi z rozdźělnym akcentom, starobu, splahom a pozadkom rozumić.  
+Jeli konto załožujeće, budźe so Mozilla za wašej e-mejlowej adresu a wužiwarskim mjenom po wašej wólbje prašeć. Hdyž chceće, móžeće tež awatar a wěste demografiske daty podać, kotrež budu nam pomhać mašiny wučić, ludźi z rozdźělnym akcentom, starobu, splahom a pozadkom rozumić.  
 
 When you provide information for your account, you give Mozilla all permissions necessary to: 
 keep track of information about your Contributions, including audio recordings, text, and validations, 
