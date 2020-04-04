@@ -18,7 +18,7 @@ Zo byšće so směł na Common Voice wobdźělić, Mozilla slědowacej slubjeni 
 
 Sprěnja: Waše přinoški su dospołnje waše swójske dźěło.
 
-Zdruha: Waše přinoški prawa třećich njezranja. 
+Zdruha: Waše přinoški prawa třećich njeranja. 
 
 Jeli njemóžeće to slubić, njemóžeće so na Common Voice wobdźělić. 
 
