@@ -2,9 +2,9 @@
 
 Płaćiwe wot 30. nowembra 2018 {: datetime="2018-11-30" }
 
-Through Common Voice, you can donate your voice, written sentences, and the other resources we need to build an open-source voice database that anyone can use to make innovative voice recognition apps for devices and the web.
+Přez Common Voice móžeće swóh hłós, napisane sady a druhe resursy k dispoziciji stajić, kotrež trjebamy, zo bychmy datowu banku hłosow wotewrjeneho žórła natwarili, kotruž kóždy ma wužiwać, zo by inowatiwne nałoženja za rěčenske spóznaće za graty a web wuwiwał.
 
-You may only participate in Common Voice if you agree to these Terms. 
+Móžeće so na Common Voice wobdźělić, jeli do slědowacych wuměnjenjow zwoliće. 
 
 ## 1. Eligibility
 Common Voice is open to anyone over the age of 19. If you are 19 or under, you must have your parent or guardian’s consent and they must supervise your participation in Common Voice. 
