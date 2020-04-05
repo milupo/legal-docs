@@ -48,7 +48,7 @@ Rukowanje je we wobłuku tutoho dojednanja na 500 $ wobmjezowane.
 
 Přihłosujeće, zo wšě naroki wot Mozilla wotdźeržeće, kotrež z wašeho wobdźělenje na Common Voice wuchadźeja. 
 
-Mozilla provides the service “as is.”  Mozilla specifically disclaims any legal guarantees or warranties such as “merchantability,” “fitness for a particular purpose,” “non-infringement,” and warranties arising out of a course of dealing, usage or trade. 
+Mozilla słužbu „za čo“ k dispoziciji staja.”  Mozilla předewšěm zakonske zaručenja abo garantije wuzamnkuje, kaž na přikład za „lochkowotbytnosć“, „přihódnosć za wěsty zaměr“, „njezranjenje“ a garantije, kotrež z wužiwanja abo wikowanja wuchadźeja. 
 
 ## 6. Zranjenja prawow
 Jeli sej mysliće, zo něšto w Common Voice waše awtorske prawo abo markowe prawa rani, prošu hlejće naše [prawidła za zdźělenje zranjenjow prawa](https://www.mozilla.org/about/legal/report-infringement/).
