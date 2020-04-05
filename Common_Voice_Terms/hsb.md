@@ -56,7 +56,7 @@ Jeli sej mysliće, zo něšto w Common Voice waše awtorske prawo abo markowe pr
 ## 7. Aktualizacije 
 Mozilla sej prawo wuměnjenja, tute wužiwanske wuměnjenja hdys a hdys aktualizować. Zaktualizowane wužiwanske wuměnjenja online wozjewimy. 
 
-Jeli Common Voice dale wužiwaće, po tym zo smy wužiwanske wuměnjenja zaktualizowali, akceptujeće jich změny. Podamy datum płaćiwosće horjeka na tutej stronje, zo bychmy wobjasnili, hdy smy najnowšu aktualizaciju přewjedli. 
+Jeli Common Voice dale wužiwaće, po tym zo smy wužiwanske wuměnjenja zaktualizowali, akceptujeće jich změny. Podamy horjeka na tutej stronje datum, hdy wuměnjenja płaćiwosć nabudu, zo bychmy wobjasnili, hdy smy najnowšu aktualizaciju přewjedli. 
 
 ## 8. Skónčenje 
 Mozilla can suspend or end anyone’s access to Common Voice at any time for any reason. If we decide to suspend or end your access, we will try notify you by the email address associated with your account or the next time you attempt to access Common Voice. 
