@@ -46,7 +46,7 @@ Zarunanje škody za indirektne, wosebite, připadne, naslědne škody kaž tež 
 
 Rukowanje je we wobłuku tutoho dojednanja na 500 $ wobmjezowane. 
 
-You agree to indemnify and hold Mozilla harmless for any liability or claim that comes results from your participation in Common Voice. 
+Přihłosujeće, zo wšě naroki wot Mozilla wotdźeržeće, kotrež z wašeho wobdźělenje na Common Voice wuchadźeja. 
 
 Mozilla provides the service “as is.”  Mozilla specifically disclaims any legal guarantees or warranties such as “merchantability,” “fitness for a particular purpose,” “non-infringement,” and warranties arising out of a course of dealing, usage or trade. 
 
