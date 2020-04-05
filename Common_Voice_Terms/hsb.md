@@ -59,9 +59,9 @@ Mozilla sej prawo wuměnjenja, tute wužiwanske wuměnjenja hdys a hdys aktualiz
 Jeli Common Voice dale wužiwaće, po tym zo smy wužiwanske wuměnjenja zaktualizowali, akceptujeće jich změny. Podamy horjeka na tutej stronje datum, hdy wuměnjenja płaćiwosć nabudu, zo bychmy wobjasnili, hdy smy najnowšu aktualizaciju přewjedli. 
 
 ## 8. Skónčenje 
-Mozilla móže přistup kóždeje wosoby ke Common Voice kóždy čas a z kóždeje přičiny wupowědźić abo skónčić. Jeli so rozsudźamy, waš přistup wupowědźić abo skónčić, spytamy was přez e-mejlowu adresu informować, kotraž je z wašim kontom zwjazana, abo přichodny raz, hdyž pospytujeće, přistup ke Common Voice dóstał. 
+Mozilla móže přistup kóždeje wosoby ke Common Voice kóždy čas a z kóždeje přičiny wupowědźić abo skónčić. Jeli so rozsudźimy, waš přistup wupowědźić abo skónčić, spytamy was přez e-mejlowu adresu informować, kotraž je z wašim kontom zwjazana, abo přichodny raz, hdyž pospytujeće, přistup ke Common Voice dóstał. 
 
-Natočenja, kotrež pola Mozilla zapodawaće, wostanu zjawnje jako dźěl Common Voice k dispoziciji, hačrunjež waš přistup skónčimy abo wupowědźimy. 
+Natočenja, kotrež pola Mozilla zapodawaće, wostanu jako dźěl Common Voice zjawnje k dispoziciji, hačrunjež waš přistup skónčimy abo wupowědźimy. 
 
 ## 9. Płaćiwe prawo
 Za tute wužiwanske wuměnjenja kaliforniske prawo płaći. Tute wužiwanske wuměnjenja su cyłkowne dojednanje mjez wami a Mozilla nastupajo Common Voice.
