@@ -51,7 +51,7 @@ Přihłosujeće, zo wšě naroki wot Mozilla wotdźeržeće, kotrež z wašeho w
 Mozilla słužbu „za čo“ k dispoziciji staja. Mozilla předewšěm zakonske zaručenja abo garantije wuzamkuje, kaž na přikład za „lochkowotbytnosć“, „přihódnosć za wěsty zaměr“, „njezranjenje prawow cuzych“ a garantije, kotrež z přeběha jednanja, wužiwanja abo wikowanja wuchadźeja. 
 
 ## 6. Zranjenja prawow
-Jeli sej mysliće, zo něšto w Common Voice waše awtorske prawo abo markowe prawa rani, prošu hlejće naše [prawidła za zdźělenje zranjenjow prawa](https://www.mozilla.org/about/legal/report-infringement/).
+Jeli sej mysliće, zo něšto w Common Voice waše awtorske prawo abo markowe prawa rani, čitajće prošu naše [prawidła za zdźělenje zranjenjow prawa](https://www.mozilla.org/about/legal/report-infringement/).
 
 ## 7. Aktualizacije 
 Mozilla sej prawo wuměnjenja, tute wužiwanske wuměnjenja hdys a hdys aktualizować. Zaktualizowane wužiwanske wuměnjenja online wozjewimy. 
