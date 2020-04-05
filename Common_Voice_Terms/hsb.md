@@ -48,15 +48,15 @@ Rukowanje je we wobłuku tutoho dojednanja na 500 $ wobmjezowane.
 
 Přihłosujeće, zo wšě naroki wot Mozilla wotdźeržeće, kotrež z wašeho wobdźělenje na Common Voice wuchadźeja. 
 
-Mozilla słužbu „za čo“ k dispoziciji staja.”  Mozilla předewšěm zakonske zaručenja abo garantije wuzamnkuje, kaž na přikład za „lochkowotbytnosć“, „přihódnosć za wěsty zaměr“, „njezranjenje“ a garantije, kotrež z wužiwanja abo wikowanja wuchadźeja. 
+Mozilla słužbu „za čo“ k dispoziciji staja. Mozilla předewšěm zakonske zaručenja abo garantije wuzamkuje, kaž na přikład za „lochkowotbytnosć“, „přihódnosć za wěsty zaměr“, „njezranjenje prawow cuzych“ a garantije, kotrež z wužiwanja abo wikowanja wuchadźeja. 
 
 ## 6. Zranjenja prawow
 Jeli sej mysliće, zo něšto w Common Voice waše awtorske prawo abo markowe prawa rani, prošu hlejće naše [prawidła za zdźělenje zranjenjow prawa](https://www.mozilla.org/about/legal/report-infringement/).
 
 ## 7. Aktualizacije 
-Every once in a while, Mozilla may decide to update these Terms. We will post the updated Terms online. 
+Mozilla sej prawo wuměnjenja, tute wužiwanske wuměnjenja hdys a hdys aktualizować. Zaktualizowane wužiwanske wuměnjenja online wozjewimy. 
 
-If you continue to use Common Voice after we post updated Terms, you agree to accept that this constitutes your acceptance of such changes. We will post an effective date at the top of this page to make it clear when we made our most recent update. 
+Jeli Common Voice dale wužiwaće, po tym zo smy wužiwanske wuměnjenja zaktualizowali, akceptujeće jich změny. Podamy datum płaćiwosće horjeka na tutej stronje, zo bychmy wobjasnili, hdy smy najnowšu aktualizaciju přewjedli. 
 
 ## 8. Skónčenje 
 Mozilla can suspend or end anyone’s access to Common Voice at any time for any reason. If we decide to suspend or end your access, we will try notify you by the email address associated with your account or the next time you attempt to access Common Voice. 
