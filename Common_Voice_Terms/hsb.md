@@ -41,11 +41,10 @@ Jeli naše powěsćowe listy abonujeće abo so za konto w zwisku z Common Voice 
 
 ## 5. Wuzamknjenja rukowanja
 
-By participating in Common Voice, you agree that Mozilla will not be liable in any way for any inability to use Common Voice or for any claim arising out of these terms. Mozilla specifically disclaims the following:
-Indirect, special, incidental, consequential, or exemplary damages
-Direct or indirect damages for loss of goodwill, work stoppage, lost profits, loss of data, or computer malfunction
+Přez wobdźělenje na Common Voice přizwoleće, zo Mozilla njebudźe na žane wašnje rukuje, jeli wužiwanje Common Voice móžne njeje, abo za naroki, kotrež so z tutych wužiwanskich wuměnjenjow wuchadźeja. Mozilla předewšěm w slědowacych padach njerukuje:
+Indirektne, wosebite, připadne, naslědne abo zawjazki k zarunanju škody, direkne abo indirektne škody za stratu wobchodoweje hódnoty, dźěłowe přetorhnjenja, zhubjene dobytki, strata datow abo wupady ličakow
 
-Any liability under this agreement is limited to $500. 
+Rukowanje je we wobłuku tutoho dojednanja na 500 $ wobmjezowane. 
 
 You agree to indemnify and hold Mozilla harmless for any liability or claim that comes results from your participation in Common Voice. 
 
