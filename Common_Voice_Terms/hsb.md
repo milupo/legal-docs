@@ -41,8 +41,8 @@ Jeli naše powěsćowe listy abonujeće abo so za konto w zwisku z Common Voice 
 
 ## 5. Wuzamknjenja rukowanja
 
-Přez wobdźělenje na Common Voice přizwoleće, zo Mozilla njebudźe na žane wašnje rukuje, jeli wužiwanje Common Voice móžne njeje, abo za naroki, kotrež so z tutych wužiwanskich wuměnjenjow wuchadźeja. Mozilla předewšěm w slědowacych padach njerukuje:
-Indirektne, wosebite, připadne, naslědne abo zawjazki k zarunanju škody, direkne abo indirektne škody za stratu wobchodoweje hódnoty, dźěłowe přetorhnjenja, zhubjene dobytki, strata datow abo wupady ličakow
+Přez wobdźělenje na Common Voice přizwoleće, zo Mozilla njebudźe na žane wašnje rukuje, jeli wužiwanje Common Voice móžne njeje, abo za naroki, kotrež so z tutych wužiwanskich wuměnjenjow wuchadźeja. Mozilla předewšěm w slědowacych padach rukowanje wuzamkuje:
+Zarunanje škody za indirektne, wosebite, připadne, naslědne škody kaž tež zarunanje škody za direktne abo indirektne škody přez stratu wobchodoweje hódnoty, dźěłowe přetorhnjenja, zhubjene dobytki, stratu datow abo wupady ličakow
 
 Rukowanje je we wobłuku tutoho dojednanja na 500 $ wobmjezowane. 
 
