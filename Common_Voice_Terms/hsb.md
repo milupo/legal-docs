@@ -27,10 +27,10 @@ Njetrjebaće konto załožić, zo byšće so na Common Voice wobdźělił.
 
 Jeli konto załožujeće, budźe so Mozilla za wašej e-mejlowej adresu a wužiwarskim mjenom po wašej wólbje prašeć. Hdyž chceće, móžeće tež awatar a wěste demografiske daty podać, kotrež budu nam pomhać mašiny wučić, ludźi z rozdźělnym akcentom, starobu, splahom a pozadkom rozumić.  
 
-Hdyž informacije za waše konto podawaće, dawaće Mozilla wšě dowolnosće, kotrež su trěbne, zo bychmy móhli: 
+Hdyž informacije za swoje konto podawaće, dawaće Mozilla wšě dowolnosće, kotrež su trěbne, zo bychmy móhli: 
 informacije wo wašich přinoškach składować, mjez nimi awdionatočenja, tekst a wobkrućenja, 
 te daty z wašim kontom, e-mejlowej adresu, wužiwarskim mjenom a demografiskimi informacijemi zwjazać, kotrež sće podał, a 
-zjawnosći waše přinoški hromadźe z demografiskim informacijemi k dispoziciji stajić a podaća wo wašich přinoškach (na přikład ličbu natočenjow a rěče) hromadźe z wašim wužiwarskim mjenm w lisćinje porjada wozjewić.  
+zjawnosći waše přinoški hromadźe z demografiskimi informacijemi k dispoziciji stajić a podaća wo wašich přinoškach (na přikład ličbu natočenjow a rěče) hromadźe z wašim wužiwarskim mjenom w lisćinje porjada wozjewić.  
 
 Mozilla wašu e-mejlowu adresu nihdźe zjawnje njepokazuje a njewozjewja. 
 
